@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-fluent-motions-client-side-solution",
+    "id": "6e94c6d9-4acc-416d-a711-6e8ffb5a74bc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-fluent-motions description"
+      },
+      "longDescription": {
+        "default": "react-fluent-motions description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-fluent-motions Feature",
+        "description": "The feature that activates elements of the react-fluent-motions solution.",
+        "id": "186f6502-c1c5-4ff4-8f28-4a7a072b4826",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-fluent-motions.sppkg"
+  }
+}
